@@ -1,0 +1,30 @@
+:root {
+    --theme-text: #333333;
+    --theme-background-color: #f3f1ee;
+    --theme-btn-background-color: black;
+    --theme-color: yellow;
+    --theme-dropdown-color:#FFCF71;
+    --theme-border-bg: #6699CC;
+    --theme-dropmenu-color:#9708CC;
+    --theme-section-background-color: #11190c;
+    --theme-section-color: #ffffff;
+}
+
+:root{
+    --theme-font-weight:500;
+    --theme-font-weight-heading: 800;
+    --theme-light-font-weight: 400;
+    --theme-h1-font-weight: 650;
+    --theme-box-font-weight: 600;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+
